@@ -7,27 +7,42 @@ C-Sharp-3-Days-Challenge
 
 3: DataTypes in C#
 
-      1.1: int  
+      3.1: int  
       
-      1.2: String
+      3.2: String
       
-      1.3: Bool
+      3.3: Bool
       
-      1.4: float
+      3.4: float
       
-      1.5: double
+      3.5: double
       
-      1.6: Char
+      3.6: Char
       
 4: Operators in C#
 
-      1.1: Logical Operators 
+      4.1: Logical Operators 
       
-      1.2: Assignment Operators
+      4.2: Assignment Operators
       
-      1.3: Comparison Operators
+      4.3: Comparison Operators
       
-      1.4: Bitwise Operators
+      4.4: Bitwise Operators
       
-      1.5: Arithmatic Operators
+      4.5: Arithmatic Operators
+      
+5: Control Flow in C#
+
+      5.1: if Else Statement 
+      
+      5.2: Switch Statement
+      
+      5.3: For Loop
+      
+      5.4: ForEach Loop
+      
+      5.5: While Loop
+      
+      5.6: Do While Loop
+      
       
